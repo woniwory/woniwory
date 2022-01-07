@@ -1,4 +1,4 @@
-### Hi there 👋
+### 난 객체지향이 뭔지 모른다.
 
 <!--
 **woniwory/woniwory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
