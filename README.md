@@ -1,5 +1,6 @@
 ### I don't know anything about OOP 🤔
 ### ROKA CERT ⚡(2022.05.16 ~ 2023. 11.16) 
+- I’m currently working on Security and Monitoring 😄
 <!--
 **woniwory/woniwory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
