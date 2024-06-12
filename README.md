@@ -3,7 +3,7 @@
 - I worked on InfoSec and Monitoring 😄
 - Does anyone know about CVE-2007-4559 ? 🤔
 ### DKU CSOS Lab Undergraduate Researcher 🔎 (2024.02 ~ ) 
-- I'm conducting research on Android malware detection based on machine learning.
+- I'm conducting research on Android Malware Detection based on Machine Learning.
 <!--
 **woniwory/woniwory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
