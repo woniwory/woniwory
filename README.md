@@ -1,7 +1,8 @@
 ### I don't know anything about OOP 🤔
-### ROKA AMSC CERT ⚡(2022.05.16 ~ 2023. 11.16) 
+### ROKA AMSC CERT ⚡(2022.05 ~ 2023. 11) 
 - I worked on InfoSec and Monitoring 😄
 - Does anyone know about CVE-2007-4559 ? 🤔
+### DKU CSOS Lab Undergraduate Researcher 🔎 (2024.02 ~ ) 
 <!--
 **woniwory/woniwory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
